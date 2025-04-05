@@ -2,6 +2,8 @@
 
 Host your own Mastodon archive.
 
+REVISADO POR RODRIGO BARBOSA.
+
 ## Usage
 
 1. Clone or download this repository,
